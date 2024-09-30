@@ -1,5 +1,9 @@
 "# vscode-settings" 
-
+<div align="center">
+<p>download font <a href="https://github.com/kencrocken/FiraCodeiScript/archive/refs/heads/master.zip">Fira Code isCript</a></p>
+<img src="https://www.richardsumilang.com/images/apps/ide/visual-studio-code/how-to-add-cursive/edtor-cursive-900x409.jpg">
+</div>
+<br><br><br>
 "# vscode-theme" 
 <div align="center">
   
