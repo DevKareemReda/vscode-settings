@@ -38,25 +38,6 @@
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
   },
-  "cSpell.enableFiletypes": [
-    "!asciidoc",
-    "!c",
-    "!cpp",
-    "!csharp",
-    "!go",
-    "!handlebars",
-    "!haskell",
-    "!jade",
-    "!java",
-    "!latex",
-    "!php",
-    "!pug",
-    "!python",
-    "!restructuredtext",
-    "!rust",
-    "!scala",
-    "!scss"
-  ],
   "editor.tabSize": 2,
   "workbench.iconTheme": "symbols",
   "[jsonc]": {
@@ -440,9 +421,4 @@
   "workbench.tree.enableStickyScroll": false,
   "terminal.integrated.tabs.defaultIcon": "github",
   "window.customTitleBarVisibility": "never",
-  "cSpell.userWords": [
-    "Cript",
-    "Fira",
-    "readwrite"
-  ]
 }
