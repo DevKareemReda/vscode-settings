@@ -86,14 +86,6 @@
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.renderWhitespace": "none",
   "workbench.activityBar.location": "bottom",
-  //"window.menuBarVisibility": "compact",
-  // "workbench.statusBar.visible": false,
-  // "window.menuBarVisibility": "compact",
-  // "workbench.layoutControl.enabled": false,
-  // "window.commandCenter": false,
-  // "workbench.statusBar.visible": false,
-  // "window.menuBarVisibility": "compact",
-  // "workbench.activityBar.visible": false,
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
@@ -443,7 +435,7 @@
       }
     ]
   },
-  "workbench.colorTheme": "Min Darker Theme (by GmsGarcia)",
+  "workbench.colorTheme": "karam",
   "workbench.tree.indent": 4,
   "workbench.tree.enableStickyScroll": false,
   "terminal.integrated.tabs.defaultIcon": "github",
