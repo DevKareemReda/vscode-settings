@@ -416,7 +416,7 @@
       }
     ]
   },
-  "workbench.colorTheme": "karam",
+  "workbench.colorTheme": "Karam Theme Darker",
   "workbench.tree.indent": 4,
   "workbench.tree.enableStickyScroll": false,
   "terminal.integrated.tabs.defaultIcon": "github",
